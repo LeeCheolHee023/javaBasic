@@ -1,7 +1,7 @@
 
-public class BitReverseOperatorExample {
-  public static void main(String[] args {
-	  int num = 10;
+public class BitReverseOperatoionExample {
+  public static void main(String[] args) {
+	  int num1 = 10;
 	  String returnValue = toBinaryString(num1);
 	  System.out.println(returnValue);
     }

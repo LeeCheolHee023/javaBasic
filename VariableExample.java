@@ -12,7 +12,7 @@ public class VariableExample {
 		for( int i=0; i<10; i++)
 		{
 			b3++;
-			System.out.printlnSystem.out.println(b3);
+			System.out.println(b3);
 		}
 		/*b3++;
 		System.out.println(b3);

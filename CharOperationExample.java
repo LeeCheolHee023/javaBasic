@@ -1,10 +1,8 @@
-import javax.sound.sampled.SourceDataLine;
 
-public class CharOperationExample
-{
 
-    public static void main(String[] args)
-    {
+public class CharOperationExample {
+
+    public static void main(String[] args) {
         int v1 = 5;
         int v2 = 2;
 
@@ -15,20 +13,20 @@ public class CharOperationExample
         result = sum(10, 15);
         System.out.println("retult2 = " + result);
 
-        result1 = divide(10,15);
+        result1 = divide(10, 15);
         System.out.println("result3 = " + result1);
     }
 
-    public static int sum(int num1, int num2)
-    {
+    public static int sum(int num1, int num2) {
         int result = num1 + num2;
         return result;
 
     }
-    public static double divide(int num1, int num2)
-    {   double result = (double) num1 / num2;
+
+    public static double divide(int num1, int num2) {
+        double result = (double) num1 / num2;
         return result;
 
     }
-              
+
 }

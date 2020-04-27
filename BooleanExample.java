@@ -2,9 +2,6 @@
 public class BooleanExample{
 
 	public static void main(String[] args){
-		boolean isTure = false;
-		isTure = true;
-		
 		int num1, num2;
 		num1 = 19;
 		num2 = 29;
