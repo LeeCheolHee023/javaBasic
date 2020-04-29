@@ -3,7 +3,7 @@ public class WhileExample2 {
     public static void main(final String[] args) {
         int i = 1;
         int sum;
-        while (i <= 100) {
+        while (i <= 1) {
             if (i % 3 == 0) {
                 sum = i;
             }
